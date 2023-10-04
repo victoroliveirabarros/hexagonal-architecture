@@ -4,7 +4,7 @@ A minimal voting system made in the hexagonal architecture training with fastAPI
 
 Requirements:
 
-* Python 3.8
+* Python 3.10
 * Pipenv
 
 Install:
